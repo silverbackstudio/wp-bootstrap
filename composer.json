@@ -28,7 +28,7 @@
     "wpackagist-plugin/jetpack": "^8.4.0",
     "wpackagist-plugin/safe-svg": "^1.9.0",
     "wpackagist-plugin/wordpress-importer": "0.6.3",
-    "wpackagist-plugin/wordpress-seo": "^13.0.0"
+    "wpackagist-plugin/wordpress-seo": "^14.0.0"
   },
   "require-dev": {
     "wpackagist-plugin/loco-translate": "^2.0",
